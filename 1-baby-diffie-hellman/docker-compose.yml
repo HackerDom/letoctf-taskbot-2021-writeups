@@ -1,0 +1,8 @@
+version: '2.2'
+
+services:
+    baby-diffie-hellman:
+        build: service
+        restart: on-failure
+        ports:
+            - 17171:31337

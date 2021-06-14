@@ -1,5 +1,7 @@
 # LetoCTF Taskbot 2021 | confident-confinement
 
+Автор: [keltecc](https://github.com/keltecc)
+
 ## Описание
 
 > Я вам запрещаю использовать синтаксис Python!

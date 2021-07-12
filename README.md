@@ -5,3 +5,4 @@ Writeups:
 2. [confident-confinement](2-confident-confinement/README.md)
 3. [db-cryptor](3-db-cryptor/README.md)
 4. [press-f-to-feistel](4-press-f-to-feistel/README.md)
+5. [barrel-organ](5-barrel-organ/README.md)

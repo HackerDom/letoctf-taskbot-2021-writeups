@@ -1,5 +1,7 @@
 # LetoCTF Taskbot 2021 | my-anime-list
 
+Автор: [revker](https://github.com/revervand)
+
 ## Описание
 
 > **my-anime-list**
